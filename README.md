@@ -1,6 +1,7 @@
 # OpenAI API Interaction Functions
 
 This repository contains several utility functions to interact with different versions of the OpenAI API.
+![image](https://github.com/putkoff/OpenAI-API-Comprehensive-Console/assets/57512254/54470516-b51e-4539-88cf-462b80ea149b)
 
 ## Token Info Function
 
